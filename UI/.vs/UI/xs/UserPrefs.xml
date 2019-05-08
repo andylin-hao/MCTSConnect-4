@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D85AC712-B326-4F82-A13E-934B693D4243}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DLLWrapper.cs">
+    <Files>
+      <File FileName="Data.cs" Line="1" Column="1" />
+      <File FileName="DLLWrapper.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UI" expanded="True">
+            <Node name="UI" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="DLLWrapper.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
